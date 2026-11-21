@@ -1,0 +1,7 @@
+Grid,Implementation,Speedup
+256x256x256,Global Memory,1.0
+256x256x256,Shared Memory,1.095273332110957
+256x256x256,2.5D Register Pipeline,0.8436458096895412
+512x512x512,Global Memory,1.0
+512x512x512,Shared Memory,1.1715447701497448
+512x512x512,2.5D Register Pipeline,1.3176073923974

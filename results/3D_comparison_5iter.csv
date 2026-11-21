@@ -1,0 +1,7 @@
+Implementation,Grid,Iterations,Kernel_Time_ms,Max_Error,Verification
+Global Memory,256x256x256,5,17.2129,0,PASSED
+Shared Memory,256x256x256,5,9.92317,0,PASSED
+2.5D Register Pipeline,256x256x256,5,26.3929,0,PASSED
+Global Memory,512x512x512,5,115.373,0,PASSED
+Shared Memory,512x512x512,5,115.675,0,PASSED
+2.5D Register Pipeline,512x512x512,5,120.982,0,PASSED

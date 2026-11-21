@@ -1,0 +1,28 @@
+# Compiled binaries and CUDA build files
+*.o
+*.out
+*.exe
+*.ptx
+*.cubin
+*.fatbin
+
+# Temporary and log files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
